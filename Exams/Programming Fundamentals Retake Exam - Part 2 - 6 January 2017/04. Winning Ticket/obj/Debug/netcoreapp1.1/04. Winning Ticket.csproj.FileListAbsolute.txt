@@ -1,0 +1,9 @@
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\04. Winning Ticket\bin\Debug\netcoreapp1.1\04. Winning Ticket.deps.json
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\04. Winning Ticket\bin\Debug\netcoreapp1.1\04. Winning Ticket.runtimeconfig.json
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\04. Winning Ticket\bin\Debug\netcoreapp1.1\04. Winning Ticket.runtimeconfig.dev.json
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\04. Winning Ticket\bin\Debug\netcoreapp1.1\04. Winning Ticket.dll
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\04. Winning Ticket\bin\Debug\netcoreapp1.1\04. Winning Ticket.pdb
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\04. Winning Ticket\obj\Debug\netcoreapp1.1\04. Winning Ticket.csprojResolveAssemblyReference.cache
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\04. Winning Ticket\obj\Debug\netcoreapp1.1\04. Winning Ticket.AssemblyInfo.cs
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\04. Winning Ticket\obj\Debug\netcoreapp1.1\04. Winning Ticket.dll
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\04. Winning Ticket\obj\Debug\netcoreapp1.1\04. Winning Ticket.pdb

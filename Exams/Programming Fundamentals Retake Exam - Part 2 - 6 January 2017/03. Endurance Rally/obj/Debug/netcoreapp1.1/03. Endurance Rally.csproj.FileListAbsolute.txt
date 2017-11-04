@@ -1,0 +1,9 @@
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\03. Endurance Rally\bin\Debug\netcoreapp1.1\03. Endurance Rally.deps.json
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\03. Endurance Rally\bin\Debug\netcoreapp1.1\03. Endurance Rally.runtimeconfig.json
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\03. Endurance Rally\bin\Debug\netcoreapp1.1\03. Endurance Rally.runtimeconfig.dev.json
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\03. Endurance Rally\bin\Debug\netcoreapp1.1\03. Endurance Rally.dll
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\03. Endurance Rally\bin\Debug\netcoreapp1.1\03. Endurance Rally.pdb
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\03. Endurance Rally\obj\Debug\netcoreapp1.1\03. Endurance Rally.csprojResolveAssemblyReference.cache
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\03. Endurance Rally\obj\Debug\netcoreapp1.1\03. Endurance Rally.AssemblyInfo.cs
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\03. Endurance Rally\obj\Debug\netcoreapp1.1\03. Endurance Rally.dll
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 2 - 6 January 2017\03. Endurance Rally\obj\Debug\netcoreapp1.1\03. Endurance Rally.pdb

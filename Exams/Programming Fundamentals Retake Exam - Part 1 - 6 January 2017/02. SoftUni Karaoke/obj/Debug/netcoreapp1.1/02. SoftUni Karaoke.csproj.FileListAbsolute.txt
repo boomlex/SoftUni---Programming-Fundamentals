@@ -1,0 +1,9 @@
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\02. SoftUni Karaoke\bin\Debug\netcoreapp1.1\02. SoftUni Karaoke.deps.json
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\02. SoftUni Karaoke\bin\Debug\netcoreapp1.1\02. SoftUni Karaoke.runtimeconfig.json
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\02. SoftUni Karaoke\bin\Debug\netcoreapp1.1\02. SoftUni Karaoke.runtimeconfig.dev.json
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\02. SoftUni Karaoke\bin\Debug\netcoreapp1.1\02. SoftUni Karaoke.dll
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\02. SoftUni Karaoke\bin\Debug\netcoreapp1.1\02. SoftUni Karaoke.pdb
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\02. SoftUni Karaoke\obj\Debug\netcoreapp1.1\02. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\02. SoftUni Karaoke\obj\Debug\netcoreapp1.1\02. SoftUni Karaoke.AssemblyInfo.cs
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\02. SoftUni Karaoke\obj\Debug\netcoreapp1.1\02. SoftUni Karaoke.dll
+d:\pc\documents\visual studio 2017\Projects\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\02. SoftUni Karaoke\obj\Debug\netcoreapp1.1\02. SoftUni Karaoke.pdb
